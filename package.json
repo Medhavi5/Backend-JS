@@ -1,0 +1,19 @@
+{
+  "name": "backend-js",
+  "version": "1.0.0",
+  "description": "learning backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Medhavi5/Backend-JS.git"
+  },
+  "author": "Medhavi Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Medhavi5/Backend-JS/issues"
+  },
+  "homepage": "https://github.com/Medhavi5/Backend-JS#readme"
+}
